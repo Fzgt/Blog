@@ -1,3 +1,6 @@
+[前端进阶资源汇总](https://github.com/brickspert/blog/issues/2)
+[国外前端博主](https://github.com/brickspert/blog/issues/3)
+
 ### 前端知识体系 Recap
 
 #### JS 各项特性及原理 ⭐️
