@@ -13,7 +13,7 @@
 - React 生态周边库
 - Webpack 底层原理+优化手段 ⭐️
 - Vite+对各构建工具的理解
-- 对 CI/CD 的理解
+- 前端工程化+CI/CD
 - 浏览器原理+V8 原理+WebKit 原理
 - Node 开发+原理
 - Html 专题
