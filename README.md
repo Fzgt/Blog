@@ -1,8 +1,8 @@
 ### 领域展开
 
-[前端进阶资源汇总](https://github.com/Fzgt/blog/issues/2)
+[补充一些前端学习资源](https://github.com/Fzgt/blog/issues/2)
 
-[国外前端博主](https://github.com/Fzgt/blog/issues/3)
+[国外前端博主汇总](https://github.com/Fzgt/blog/issues/3)
 
 ### 前端知识体系 Recap
 
