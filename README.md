@@ -8,5 +8,5 @@
 
 [国外前端博主汇总](https://github.com/Fzgt/blog/issues/3)
 
-[坚持做对的事](https://github.com/Fzgt/blog/issues/1)
+[坚持做对的事 遗憾的不该是我](https://github.com/Fzgt/blog/issues/1)
 
