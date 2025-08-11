@@ -8,6 +8,8 @@
 
 [国外前端博主汇总](https://github.com/Fzgt/blog/issues/3)
 
+[坚持做对的事](https://github.com/Fzgt/blog/issues/3)
+
 ### 前端知识体系 Recap
 
 - JS 各项特性及原理 ⭐️
