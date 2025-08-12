@@ -10,3 +10,6 @@
 
 [5.对with的理解](https://github.com/Fzgt/blog/issues/5)
 
+
+
+[7.React如何封装组件](https://github.com/Fzgt/blog/issues/7)
