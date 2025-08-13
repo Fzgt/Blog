@@ -13,3 +13,5 @@
 [6.Hooks原理+源码解析](https://github.com/Fzgt/blog/issues/6)
 
 [7.React如何封装组件](https://github.com/Fzgt/blog/issues/7)
+
+[8.React HOC深度解析](https://github.com/Fzgt/blog/issues/8)
