@@ -1,7 +1,6 @@
 ## 前端技术 · 领域展开
 
-[1.坚持做对的事 遗憾的不该是我](https://github.com/Fzgt/blog/issues/1)
-
+[坚持做对的事 遗憾的不该是我](https://github.com/Fzgt/blog/issues/1)
 
 ### React
 
@@ -27,11 +26,11 @@
 
 [1.Vue原理+源码解析](https://github.com/Fzgt/blog/issues/4)
 
-[5.对with的理解](https://github.com/Fzgt/blog/issues/5)
+[2.对with的理解](https://github.com/Fzgt/blog/issues/5)
 
 ### 面试问题汇总
 
-[1. 阿里P8前端一面二面](https://github.com/Fzgt/blog/issues/9)
+[1.阿里P8前端一面二面](https://github.com/Fzgt/blog/issues/9)
 
 [2.React面试题补充](https://github.com/Fzgt/blog/issues/10)
 
