@@ -2,6 +2,9 @@
 
 [坚持做对的事 遗憾的不该是我](https://github.com/Fzgt/blog/issues/1)
 
+### JS/TS
+[1.TS](https://github.com/Fzgt/blog/issues/17)
+
 ### React
 
 [1.Hooks原理+源码解析](https://github.com/Fzgt/blog/issues/6)
