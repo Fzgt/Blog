@@ -3,7 +3,7 @@
 [坚持做对的事 遗憾的不该是我](https://github.com/Fzgt/blog/issues/1)
 
 ### JS/TS
-[1.TS](https://github.com/Fzgt/blog/issues/17)
+[1.TS泛型类型映射解析](https://github.com/Fzgt/blog/issues/17)
 
 ### React
 
