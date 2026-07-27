@@ -23,3 +23,7 @@
 23. [React Reconciler的理解](https://github.com/Fzgt/blog/issues/23)
 24. [useLayoutEffect](https://github.com/Fzgt/blog/issues/24)
 25. [useState与useReducer的diff](https://github.com/Fzgt/blog/issues/25)
+26. [React CaptureValue与闭包](https://github.com/Fzgt/blog/issues/26)
+27. [useContext + createContext + useReducer = Redux ／ 事件委托](https://github.com/Fzgt/blog/issues/27)
+28. [Why Did You Render](https://github.com/Fzgt/blog/issues/28)
+29. [React零碎知识点汇总①](https://github.com/Fzgt/blog/issues/29)
